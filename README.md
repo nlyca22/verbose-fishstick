@@ -1,0 +1,1 @@
+Initial content for Githomework1 README.md file. 
